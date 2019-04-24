@@ -500,12 +500,12 @@ ul.dropdown-menu li {
 
 .bg-1 {
   background: url("../images/bg/home-2.jpg") no-repeat 50% 50%;
-  background-size: auto;
+  background-size: cover;
 }
 
 .bg-2 {
   background: url("../images/bg/home-5.jpg");
-  background-size: auto;
+  background-size: cover;
 }
 
 .slider {

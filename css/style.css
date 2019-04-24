@@ -500,17 +500,17 @@ ul.dropdown-menu li {
 
 .bg-1 {
   background: url("../images/bg/home-2.jpg") no-repeat 50% 50%;
-  background-size: cover;
+  background-size: auto;
 }
 
 .bg-2 {
   background: url("../images/bg/home-5.jpg");
-  background-size: cover;
+  background-size: auto;
 }
 
 .slider {
   background: url("../images/bg/home-1.jpg") no-repeat;
-  background-size: cover;
+  background-size: auto;
   background-position: 10% 0%;
   padding: 200px 0 280px 0;
   position: relative;
